@@ -1,0 +1,38 @@
+body {
+    background-color: #391742;
+}
+
+.heading {
+    margin-bottom: 10px;
+    background-color: #79647e;
+    padding: 25px;
+    width: 50%;
+    border-radius: 10%;
+    box-shadow: 0px 0px 30px #b8b1ba;
+    font-size: 30px;
+}
+
+.sub_heading {
+    color: #79647e;
+    margin-bottom: 10px;
+    width: 50%;
+    border-radius: 10%;
+    font-size: 18px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    background-color: rgb(78, 134, 134);
+    color: #79647e;
+    box-shadow: 0px 0px 30px #bbb4c7;
+}
+
+canvas {
+    border: 5px solid #826ca4;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #79647e;
+}
